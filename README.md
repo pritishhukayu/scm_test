@@ -1,2 +1,2 @@
 # scm_test
-Testing for jeni\
+Testing for jenkins pipelines in SCM
